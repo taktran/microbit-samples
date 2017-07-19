@@ -75,7 +75,7 @@ int main()
     // U: UART Service
     //
     // PAIRING CONFIG
-    // Note that switching pairing on or off is achieved by setting "open" in config.json to 1 or 0 respectively
+    // Note that switching pairing on or off is achieved by setting "open" in config.json to 0 or 1 respectively
 
     // P: PASSKEY
     // J: Just Works
